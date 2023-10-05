@@ -6,6 +6,9 @@ use my symbols <^>v
 Tools to Help:  
 Symbols for meaning, put in front of sentence.  
 < irony
+
 > sarcasm
+
 ^ joke (innocent)
+
 v take with grain of salt, this one is bad.
