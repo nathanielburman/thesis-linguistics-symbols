@@ -7,7 +7,7 @@ Tools to Help:
 Symbols for meaning, put in front of sentence.  
 < irony
   
-  >sarcasm
+.>sarcasm
 
 
 
