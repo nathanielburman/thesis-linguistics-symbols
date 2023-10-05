@@ -9,7 +9,7 @@ Symbols for meaning, put in front of sentence.
 
 
 
-> sarcasm
+> > sarcasm
 
 
 
