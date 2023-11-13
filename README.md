@@ -16,7 +16,7 @@ Symbols for meaning, put in front of sentence.
 
 
 
-v take with grain of salt, this one is bad.
+v evil
 
 
 . normal sentence structure, this symbol means the sentence is serious.
